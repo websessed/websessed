@@ -1,1 +1,1 @@
-<h2> hi, welcome... <h2>
+<h2> welcome... <h2>
