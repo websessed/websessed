@@ -1,1 +1,1 @@
-<span style="font-weight: 200; font-size: 14px;">Welcome...</span>
+<span style="font-weight: 500; font-size: 3rem;">Welcome...</span>
