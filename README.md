@@ -1,3 +1,19 @@
 ### Welcome... 
 
-### Tools I use: (Js, Ts, Svelte, Gsap) (Node, Express, Postgresql) (Docker, Git actions, Playwright, Jest)
+### Frontend
+- HTML, CSS, Markdown
+- JavaScript (Ts)
+- Svelte
+- Gsap
+
+### Backend 
+- Node
+- Express
+- Postgresql (Pg)
+- Redis 
+
+### Others 
+- Docker
+- Git actions
+- Playwright
+- Jest
