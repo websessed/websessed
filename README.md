@@ -1,3 +1,3 @@
 ### Welcome... 
 
-### Tools I use: ( Js, Ts, Svelte, Gsap ), ( Node, Express, Postgresql )
+### Tools I use: (Js, Ts, Svelte, Gsap) (Node, Express, Postgresql) (Docker, Git actions, Playwright, Jest)
