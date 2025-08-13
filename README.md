@@ -1,4 +1,1 @@
-
-| Frontend                           | Backend                  | Others                      |
-|------------------------------------|--------------------------|-----------------------------|
-| HTML, CSS, Markdown, JS (Ts), Svelte, GSAP | Node, Express, PostgreSQL (Pg), Redis | Docker, Git Actions, Playwright, Jest |
+Welcome! I’m Maxwell, an aspiring fullstack developer. Below are some solo projects I’ve built from the ground up
