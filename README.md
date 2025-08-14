@@ -1,1 +1,1 @@
-Welcome! I’m Maxwell, an aspiring fullstack developer. Below are some solo projects I’ve built from the ground up
+Welcome! I’m Maxwell, a programming hobbyist. Below are some solo projects I’ve built from the ground up
