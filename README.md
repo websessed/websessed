@@ -1,3 +1,3 @@
 Welcome! I'm Maxwell 
 
-Footballer • Programming hobbyist • Artist - Building tools I like, as Minimal as possible.
+Just another Programming hobbyist • Building tools I like, as Minimal as possible.
