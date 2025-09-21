@@ -1,3 +1,3 @@
 Welcome! I'm Maxwell 
 
-Just another hobbyist Programmer • Building tools I like, as Minimal as possible.
+Just another hobbyist Programmer • Building stuff I like, as Minimal as possible.
